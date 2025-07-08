@@ -1,0 +1,176 @@
+{
+  "page_metadata": {
+    "page_name": "Ceník",
+    "title": "Cenově dostupné weby a marketing | Business Ranker",
+    "description": "Získejte cenově dostupné weby a marketingové služby od Business Ranker. Nabízíme balíčky od 10.000 Kč, včetně SEO, e-shopů a online marketingu.",
+    "url": "https://businessranker.cz/cenik/"
+  },
+  "sections": {
+    "header": {
+      "section_name": "Header (Reusable)",
+      "logo": { "home_url": "https://businessranker.cz/" },
+      "navigation": [
+        { "text": "Úvod", "url": "https://businessranker.cz/" },
+        { "text": "O nás", "url": "https://businessranker.cz/o-nas/" },
+        { "text": "Služby", "url": "https://businessranker.cz/sluzby/" },
+        { "text": "Ceník", "url": "https://businessranker.cz/cenik/", "is_current": true },
+        { "text": "Blog", "url": "https://businessranker.cz/blog/" },
+        { "text": "Kontakt", "url": "https://businessranker.cz/kontakt/" }
+      ],
+      "cta_button": { "text": "konzultace", "url": "https://businessranker.cz/kontakt/" }
+    },
+    "hero": {
+      "section_name": "Hero Section",
+      "heading": "Ceník",
+      "paragraph": "Naše nabídka pokrývá vše od základních web-vizitek po plně funkční weby, které podporují růst vaší firmy."
+    },
+    "pricing_packages": {
+      "section_name": "Pricing Packages Section",
+      "subheading": "Cenové balíčky služeb",
+      "heading": "Zvolte si ideální balíček pro váš projekt",
+      "packages": [
+        {
+          "name": "Basic",
+          "description": "Atraktivní jednostránkový web, který vás uvede do digitálního světa.",
+          "price": "10.000 Kč",
+          "price_info": "od",
+          "features": [
+            "jednostránkový web",
+            "analýza konkurence",
+            "wireframing + webdesign",
+            "SEO copywriting",
+            "responzivní web development",
+            "CMS - snadná správa obsahu",
+            "registrace domény a hostingu",
+            "zabezpečení webu"
+          ],
+          "button": { "text": "spočítat cenu", "url": "#brxe-kwsiwy" },
+          "note": "Ceny jsou orientační a mohou se lišit dle specifik projektu."
+        },
+        {
+          "name": "Advanced",
+          "description": "Balíček zahrnuje komplexnější strukturu stránek a rozšířené funkce.",
+          "price": "13.500 Kč",
+          "price_info": "od",
+          "features": [
+            "vše z balíčku \"Basic\"",
+            "2-10 stránkový web",
+            "vícejazyčný web",
+            "komplexní rezervační formuláře",
+            "online chat + chatbot",
+            "integrace základní analytiky",
+            "základní SEO optimalizace",
+            "základní animace na webu"
+          ],
+          "button": { "text": "spočítat cenu", "url": "#brxe-kwsiwy" },
+          "note": "Ceny jsou orientační a mohou se lišit dle specifik projektu."
+        },
+        {
+          "name": "Premium",
+          "description": "Balíček je určen pro firmy, které potřebují špičkový web s komplexními funkcemi.",
+          "price": "41.500 Kč",
+          "price_info": "od",
+          "features": [
+            "vše z balíčku \"Advanced\"",
+            "10+ stránkový web",
+            "tvorba firemní identity",
+            "funkcionalita e-shopu",
+            "vedení sociálních sítí",
+            "komplexní online marketing",
+            "komplexní SEO",
+            "pokročilé animace na webu"
+          ],
+          "button": { "text": "spočítat cenu", "url": "#brxe-kwsiwy" },
+          "note": "Ceny jsou orientační a mohou se lišit dle specifik projektu."
+        }
+      ]
+    },
+    "price_calculator": {
+      "section_name": "Price Calculator Section",
+      "subheading": "cenový kalkulátor",
+      "heading": "Cenová kalkulace na míru",
+      "form_fields": {
+        "services_selection": {
+          "heading": "Vyberte služby",
+          "options": ["tvorba webu", "marketing"]
+        },
+        "web_creation_settings": {
+          "heading": "Tvorba webu - nastavení služby",
+          "page_count_label": "Počet sránek na webu",
+          "multilanguage_heading": "Multijazyčnost webu",
+          "multilanguage_checkbox": "chci web ve více jazycích",
+          "language_count_label": "Celkový počet jazyků na webu",
+          "additional_functionality_heading": "Dodatečná funkcionalita",
+          "functionality_options": ["pokročilé animace", "platební brána", "interaktivní kalkulátor", "rezervační formulář", "online chat"]
+        },
+        "marketing_settings": {
+          "heading": "Online marketing - nastavení služby",
+          "marketing_services_heading": "Marketingové služby",
+          "marketing_options": ["Google My Business registrace", "SEO copy (měsíčně)", "správa sociálních sítí (měsíčně)", "nastavení PPC reklamní kampaně"]
+        },
+        "contact_details": {
+          "heading": "Kontaktní údaje",
+          "name_label": "Jméno",
+          "email_label": "Email",
+          "inspiration_link_label": "Odkaz na web/y pro inspiraci",
+          "project_info_label": "Dodatečné informace o projektu"
+        },
+        "consultation": {
+          "checkbox_label": "online shůzka",
+          "date_time_label": "Datum a čas schůzky",
+          "working_hours_note": "Pracovní doba: 9:00 – 18:00"
+        }
+      },
+      "calculation_summary": {
+        "heading": "Kalkualce dle služeb",
+        "web_pages_price_label": "Cena za stránky: Kč",
+        "languages_price_label": "Dodatečné jazyky na webu: Kč",
+        "functionality_price_label": "Dodatečná funkcionalita: Kč",
+        "marketing_price_label": "Služby online marketingu: Kč",
+        "total_heading": "Celková kalkulace",
+        "total_price_label": "Celkem: Kč"
+      },
+      "submit_button": "nezávazná poptávka",
+      "final_submit_button": "odeslat"
+    },
+    "faq": {
+      "section_name": "FAQ Section (Reusable)",
+      "subheading": "FAQ",
+      "heading": "Často kladené otázky",
+      "paragraph": "Zde najdete odpovědi na otázky, které často dostáváme od našich klientů. Věříme, že vám pomohou lépe porozumět našim službám. Pokud máte další otázky, neváhejte nás oslovit, jsme zde pro vás.",
+      "button": { "text": "kontakt", "url": "https://businessranker.cz/kontakt/" },
+      "questions": [
+        { "question": "Přizpůsobení balíčku služeb?", "answer": "Ano, rádi pro vás připravíme individuální nabídku na míru podle vašich specifických potřeb a požadavků." },
+        {
+          "question": "Jak dlouho trvá realizace webu?",
+          "answer": "Doba realizace se liší podle rozsahu projektu, obvykle trvá 4–6 týdnů. Realizace komplexních projektů však může zabrat více času. Přesný časový rámec vám rádi sdělíme po analýze vašich požadavků."
+        },
+        {
+          "question": "Jsou uvedené ceny konečné?",
+          "answer": "Ceny uvedené v balíčcích jsou orientační a mohou se lišit v závislosti na specifikách vašeho projektu. Pokud však přesně zadáte své požadavky do naší kalkulačky, vypočítaná cena by měla odpovídat konečné fakturované částce. Finální cenu vždy oznámíme ve smlouvě před zahájením našich prací, takže se nemusíte ničeho obávat. V tomto ohledu se snažíme být maximálně transparentní."
+        },
+        {
+          "question": "Máte záruky na kvalitu služeb?",
+          "answer": "Naše služby jsou navrženy tak, aby splnily vysoké standardy kvality. Pokud budete mít jakékoli obavy, budeme se snažit je vyřešit v rámci naší záruky spokojenosti."
+        },
+        {
+          "question": "Kdo s vámi spolupracuje?",
+          "answer": "Spolupracujeme s různými typy podniků, od malých a středních firem po startupy a jednotlivce, kteří chtějí zlepšit svou online přítomnost."
+        },
+        {
+          "question": "Jak poptat vaše služby?",
+          "answer": "Stačí nás kontaktovat prostřednictvím formuláře na našem webu nebo telefonicky, a rádi vám poskytneme další informace a domluvíme konzultaci. Můžete také využít naši interaktivní kalkulačku, kde si přesně nastavíte požadované služby a okamžitě zjistíte jejich celkovou cenu. Po vyplnění kalkulačky nám můžete zaslat tuto nezávaznou objednávku pouhým stisknutím tlačítka, abychom byli lépe informováni o vašich požadavcích, až se s vámi spojíme."
+        }
+      ]
+    },
+    "testimonials": {
+      "section_name": "Testimonials Section (Reusable)",
+      "subheading": "recenze",
+      "heading": "Zkušenosti našich klientů"
+    },
+    "footer": {
+      "section_name": "Footer (Reusable)",
+      "description": "V Business Ranker víme, že moderní webové stránky a marketing nejsou jen o pěkném vzhledu – jsou především o výsledcích, které posouvají váš business vpřed."
+    }
+  }
+}

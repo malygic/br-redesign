@@ -1,0 +1,205 @@
+{
+  "page_metadata": {
+    "page_name": "O nás",
+    "title": "Profesionální Web Design a SEO služby | Business Ranker",
+    "description": "Vytváříme moderní webové stránky a efektivní marketingové kampaně. Zvyšte svou online přítomnost s Business Ranker. Bezplatná konzultace!",
+    "url": "https://businessranker.cz/o-nas/"
+  },
+  "sections": {
+    "header": {
+      "section_name": "Header",
+      "logo": {
+        "home_url": "https://businessranker.cz/",
+        "type": "SVG"
+      },
+      "navigation": [
+        { "text": "Úvod", "url": "https://businessranker.cz/" },
+        { "text": "O nás", "url": "https://businessranker.cz/o-nas/", "is_current": true },
+        { "text": "Služby", "url": "https://businessranker.cz/sluzby/" },
+        { "text": "Ceník", "url": "https://businessranker.cz/cenik/" },
+        { "text": "Blog", "url": "https://businessranker.cz/blog/" },
+        { "text": "Kontakt", "url": "https://businessranker.cz/kontakt/" }
+      ],
+      "cta_button": {
+        "text": "konzultace",
+        "url": "https://businessranker.cz/kontakt/"
+      }
+    },
+    "hero": {
+      "section_name": "Hero Section",
+      "heading": "O nás",
+      "paragraph": "S vášní pro marketing a osobním přístupem tvoříme webové stránky, které inspirují a přinášejí výsledky."
+    },
+    "technology_and_approach": {
+      "section_name": "Technology and Approach",
+      "heading": "Moderní technologie a pragmatický přístup",
+      "paragraph": "Kombinujeme hluboké znalosti a praktické zkušenosti s moderními technologiemi. To nám umožňuje vytvářet webové stránky a kampaně, které nejen že vypadají skvěle, ale také fungují efektivně a přinášejí výsledky.",
+      "technologies": [
+        { "name": "HTML5" },
+        { "name": "CSS3" },
+        { "name": "JavaScript" },
+        { "name": "PHP" },
+        { "name": "WordPress" },
+        { "name": "Figma" },
+        { "name": "Google" },
+        { "name": "YouTube" },
+        { "name": "Facebook" },
+        { "name": "Instagram" }
+      ],
+      "image": {
+        "src": "https://businessranker.cz/wp-content/uploads/IMG-4.webp",
+        "alt": "Img 4"
+      }
+    },
+    "why_us": {
+      "section_name": "Why Us Section (Reusable)",
+      "subheading": "Proč si nás vybrat?",
+      "heading": "Silná, přesvědčivá a výkonná online přítomnost",
+      "cards": [
+        {
+          "type": "Image Left",
+          "title": "Komplexní balíček služeb",
+          "text": "„Vše v jednom“ řešení, které ušetří váš čas i peníze – web design, marketingové kampaně, SEO, emaily.",
+          "image": {
+            "src": "https://businessranker.cz/wp-content/uploads/mockub-mac-cropped.webp",
+            "alt": "Mockub Mac Cropped"
+          }
+        },
+        {
+          "type": "Text Only",
+          "title": "Kvalita a optimalizace",
+          "text": "Webové stránky které vypadají skvěle a jsou také optimalizované pro vyhledávače a uživatelsky přívětivé."
+        },
+        {
+          "type": "Call to Action",
+          "title": "Bezplatná konzultace",
+          "big_heading": "775 624 491",
+          "text": "Spojte se s Business Ranker a nechte nás, abychom vám pomohli růst a prosperovat v digitálním světě. Společně dosáhneme výjimečných výsledků.",
+          "button": {
+            "text": "kontakt",
+            "url": "https://businessranker.cz/kontakt/"
+          }
+        },
+        {
+          "type": "Text Only",
+          "title": "Jazyková diverzifikace",
+          "text": "S naší schopností komunikovat v češtině, angličtině, ruštině a ukrajinštině můžeme oslovit široké spektrum klientů."
+        },
+        {
+          "type": "Image Right",
+          "title": "Transparentnost a komunikace",
+          "text": "Věříme v otevřenou a čestnou komunikaci. S námi budete vědět, co a kdy můžete očekávat. Žádné skryté poplatky nebo nečekané náklady.",
+          "image": {
+            "src": "https://businessranker.cz/wp-content/uploads/iphones-mockub.webp",
+            "alt": "Iphones Mockub"
+          }
+        }
+      ]
+    },
+    "business_growth": {
+      "section_name": "Business Growth Section",
+      "image": {
+        "src": "https://businessranker.cz/wp-content/uploads/us-1.webp",
+        "alt": "Us 1"
+      },
+      "heading": "Pomáháme vašemu podnikání růst v online světě.",
+      "paragraph": "Klademe důraz na osobní přístup a dlouhodobé partnerství. Rozumíme vašim potřebám, sledujeme nejnovější trendy a přetváříme je v řešení na míru, která podporují váš růst. Ať už jde o moderní webové stránky, SEO, nebo online kampaně, jsme zde, abychom vám pomohli uspět."
+    },
+    "team": {
+      "section_name": "Team Section",
+      "heading": "Náš tým",
+      "subheading": "S námi je online marketing hračka!",
+      "members": [
+        {
+          "name": "Alex",
+          "position": "web design & web development",
+          "image": {
+            "src": "https://businessranker.cz/wp-content/uploads/alex-prof-v4.webp",
+            "alt": "Alexej - web designer & web developer"
+          }
+        },
+        {
+          "name": "Anastasia",
+          "position": "marketing & SEO copywriting",
+          "image": {
+            "src": "https://businessranker.cz/wp-content/uploads/nasta-prof-v4.webp",
+            "alt": "Anastasia - marketing specialist & SEO copywriter"
+          }
+        }
+      ]
+    },
+    "testimonials": {
+      "section_name": "Testimonials Section (Reusable)",
+      "subheading": "recenze",
+      "heading": "Zkušenosti našich klientů",
+      "reviews": [
+        {
+          "name": "Eva",
+          "company": "e-shop",
+          "quote": "Vytvořili nám eshop od 0, včetně SEO a reklam. Nemuseli jsme se o nic starat. Oceňujeme jejich profesionální přístup! Doporučuji!",
+          "image": { "src": "https://businessranker.cz/wp-content/uploads/Eva.jpg", "alt": "Eva - klient foto" }
+        },
+        {
+          "name": "Lucie",
+          "company": "fitness studio",
+          "quote": "Design od Business Ranker je skvělý! Web se rychle načítá a kdykoliv jsem potřebovala pomoc, ihned se ozvali a pomohli. Doporučuji!",
+          "image": { "src": "https://businessranker.cz/wp-content/uploads/Lucie.jpg", "alt": "Lucie - klient foto" }
+        },
+        {
+          "name": "Michal",
+          "company": "realitní makléř",
+          "quote": "Postarali se o můj osobní marketing „od A do Z“. Díky tomu se mi daří oslovovat více zákazníků a uzavírat více úspěšných obchodů.",
+          "image": { "src": "https://businessranker.cz/wp-content/uploads/Michal.jpg", "alt": "Michal - klient foto" }
+        }
+      ]
+    },
+    "cta": {
+      "section_name": "Call to Action Section (Reusable)",
+      "background_image_url": "https://businessranker.cz/wp-content/uploads/footer-img-scaled-1-1920x1280.webp",
+      "heading": "Nechte nás posunout vaše podnikání na novou úroveň",
+      "paragraph": "Jste připraveni oživit svůj online prostor a zvýšit svou viditelnost? Nečekejte a využijte naši bezplatnou konzultaci ještě dnes. Vyplňte formulář a my se vám ozveme s řešením přizpůsobeným vašim potřebám.",
+      "button": {
+        "text": "Bezplatná konzultace",
+        "url": "https://businessranker.cz/kontakt/"
+      }
+    },
+    "footer": {
+      "section_name": "Footer (Reusable)",
+      "description": "V Business Ranker víme, že moderní webové stránky a marketing nejsou jen o pěkném vzhledu – jsou především o výsledcích, které posouvají váš business vpřed.",
+      "columns": [
+        {
+          "title": "Kontakt",
+          "content": [
+            { "type": "text", "value": "Alexej Litvinec\nIČO: 08487090" },
+            { "type": "link", "text": "+420 775 624 491", "url": "tel:+420775624491" },
+            { "type": "link", "text": "+420 773 569 823", "url": "tel:+420773569823" },
+            { "type": "link", "text": "info@businessranker.cz", "url": "mailto:info@businessranker.cz" },
+            { "type": "link", "text": "Domažlická 1053/15, Praha 3", "url": "https://maps.app.goo.gl/d9qHsSHDQT1UPHof8" }
+          ]
+        },
+        {
+          "title": "Služby",
+          "links": [
+            { "text": "Digitální strategie", "url": "https://businessranker.cz/nase-sluzby/digitalni-strategie/" },
+            { "text": "Design", "url": "https://businessranker.cz/nase-sluzby/graficky-design/" },
+            { "text": "Tvorba webu", "url": "https://businessranker.cz/nase-sluzby/tvorba-webovych-stranek/" },
+            { "text": "Online marketing", "url": "https://businessranker.cz/nase-sluzby/online-marketing/" },
+            { "text": "SEO a copywriting", "url": "https://businessranker.cz/nase-sluzby/seo-a-copywriting/" }
+          ]
+        },
+        {
+          "title": "Informace",
+          "links": [{ "text": "GDPR", "url": "https://businessranker.cz/zasady-ochrany-osobnich-udaju-gdpr/" }]
+        }
+      ],
+      "bottom_section": {
+        "legal_text": "Služby pod značkou Business Ranker poskytuje Alexej Litvinec, který vystupuje jako OSVČ s IČ: 08487090. Všechny právní vztahy a fakturace jsou vedeny na jeho jméno.",
+        "copyright": "© 2025 Business Ranker. All Rights Reserved.",
+        "social_links": [
+          { "platform": "Facebook", "url": "Add your dynamic link" },
+          { "platform": "Instagram", "url": "Add your dynamic link" }
+        ]
+      }
+    }
+  }
+}

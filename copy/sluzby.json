@@ -1,0 +1,194 @@
+{
+  "page_metadata": {
+    "page_name": "Služby",
+    "title": "SEO, web design a marketing na míru | Business Ranker",
+    "description": "Zvyšte svou online viditelnost s našimi službami: digitální strategie, web design, SEO a marketing. Kontaktujte nás pro bezplatnou konzultaci.",
+    "url": "https://businessranker.cz/sluzby/"
+  },
+  "sections": {
+    "header": {
+      "section_name": "Header (Reusable)",
+      "logo": { "home_url": "https://businessranker.cz/" },
+      "navigation": [
+        { "text": "Úvod", "url": "https://businessranker.cz/" },
+        { "text": "O nás", "url": "https://businessranker.cz/o-nas/" },
+        { "text": "Služby", "url": "https://businessranker.cz/sluzby/", "is_current": true },
+        { "text": "Ceník", "url": "https://businessranker.cz/cenik/" },
+        { "text": "Blog", "url": "https://businessranker.cz/blog/" },
+        { "text": "Kontakt", "url": "https://businessranker.cz/kontakt/" }
+      ],
+      "cta_button": { "text": "konzultace", "url": "https://businessranker.cz/kontakt/" }
+    },
+    "hero": {
+      "section_name": "Hero Section",
+      "heading": "Služby",
+      "paragraph": "S vášní pro marketing a osobním přístupem tvoříme webové stránky, které inspirují a přinášejí výsledky."
+    },
+    "services_intro": {
+      "section_name": "Services Intro Section",
+      "heading": "Moderní digitální řešení pro vaše podnikání",
+      "paragraph": "Zajišťujeme komplexní služby od digitální strategie přes grafický design až po tvorbu webových stránek a online marketing. Díky našim zkušenostem a důrazu na detail vám pomůžeme vytvořit silnou a konkurenceschopnou značku na internetu.",
+      "features": [
+        "řešení na míru",
+        "unikátní design",
+        "texty které prodávají",
+        "marketing založený na datech",
+        "responzivní weby",
+        "rychlé dodání",
+        "zákaznická podpora",
+        "flexibilita a přizpůsobivost"
+      ],
+      "image": {
+        "src": "https://businessranker.cz/wp-content/uploads/services-img-v3-1.webp",
+        "alt": "Services Img V3 (1)"
+      }
+    },
+    "all_services": {
+      "section_name": "All Services Section",
+      "subheading": "NAŠE SLUŽBY",
+      "heading": "Komplexní digitální řešení pro vaše podnikání",
+      "service_cards": [
+        {
+          "title": "Digitální strategie",
+          "description": "Nastavíme vás na cestu k online úspěchu s promyšlenou digitální strategií, která zvýší vaši viditelnost.",
+          "button": { "text": "Více informací", "url": "https://businessranker.cz/nase-sluzby/digitalni-strategie/" }
+        },
+        {
+          "title": "Design",
+          "description": "Přetvoříme vaše vize do vizuální podoby, která zaujme a osloví vaše zákazníky na první pohled.",
+          "button": { "text": "Více informací", "url": "https://businessranker.cz/nase-sluzby/graficky-design/" }
+        },
+        {
+          "title": "Tvorba webu",
+          "description": "Vaše digitální vizitka. Vytvoříme web, který přitahuje, informuje a přeměňuje návštěvníky na zákazníky.",
+          "button": { "text": "Více informací", "url": "https://businessranker.cz/nase-sluzby/tvorba-webovych-stranek/" }
+        },
+        {
+          "title": "SEO a copywriting",
+          "description": "Zvýšíme vaši online viditelnost a přitáhneme pozornost cíleného publika skrze špičkový SEO a poutavý obsah.",
+          "button": { "text": "Více informací", "url": "https://businessranker.cz/nase-sluzby/seo-a-copywriting/" }
+        },
+        {
+          "title": "Online marketing",
+          "description": "Zasáhněte správné publikum s našimi cílenými online kampaněmi, které přinášejí viditelné výsledky.",
+          "button": { "text": "Více informací", "url": "https://businessranker.cz/nase-sluzby/online-marketing/" }
+        },
+        {
+          "title": "Emailing",
+          "description": "Udržujte kontakt se svými zákazníky skrze osobní a přesvědčivé emaily, které budují vztahy.",
+          "button": { "text": "Více informací", "url": "https://businessranker.cz/nase-sluzby/emailing/" }
+        }
+      ]
+    },
+    "why_us": {
+      "section_name": "Why Us Section (Reusable)",
+      "subheading": "Proč si nás vybrat?",
+      "heading": "Silná, přesvědčivá a výkonná online přítomnost",
+      "cards": [
+        {
+          "title": "Komplexní balíček služeb",
+          "text": "„Vše v jednom“ řešení, které ušetří váš čas i peníze –  web design, marketingové kampaně, SEO, emaily.",
+          "image": { "src": "https://businessranker.cz/wp-content/uploads/mockub-mac-cropped.webp", "alt": "Mockub Mac Cropped" }
+        },
+        {
+          "title": "Kvalita a optimalizace",
+          "text": "Webové stránky které vypadají skvěle a jsou také optimalizované pro vyhledávače a uživatelsky přívětivé."
+        },
+        {
+          "title": "Bezplatná konzultace",
+          "big_heading": "775 624 491",
+          "text": "Spojte se s Business Ranker a nechte nás, abychom vám pomohli růst a prosperovat v digitálním světě. Společně dosáhneme výjimečných výsledků.",
+          "button": { "text": "kontakt", "url": "https://businessranker.cz/kontakt/" }
+        },
+        {
+          "title": "Jazyková diverzifikace",
+          "text": "S naší schopností komunikovat v češtině, angličtině, ruštině a ukrajinštině můžeme oslovit široké spektrum klientů."
+        },
+        {
+          "title": "Transparentnost a komunikace",
+          "text": "Věříme v otevřenou a čestnou komunikaci. S námi budete vědět, co a kdy můžete očekávat. Žádné skryté poplatky nebo nečekané náklady.",
+          "button": { "text": "O nás", "url": "https://businessranker.cz/o-nas/" },
+          "image": { "src": "https://businessranker.cz/wp-content/uploads/iphones-mockub.webp", "alt": "Iphones Mockub" }
+        }
+      ]
+    },
+    "faq": {
+      "section_name": "FAQ Section",
+      "subheading": "FAQ",
+      "heading": "Často kladené otázky",
+      "paragraph": "Zde najdete odpovědi na otázky, které často dostáváme od našich klientů. Věříme, že vám pomohou lépe porozumět našim službám. Pokud máte další otázky, neváhejte nás oslovit, jsme zde pro vás.",
+      "button": { "text": "kontakt", "url": "https://businessranker.cz/kontakt/" },
+      "questions": [
+        {
+          "question": "Jak probíhá proces zahájení spolupráce?",
+          "answer": "Spolupráce začíná konzultací, během níž zhodnotíme potřeby klienta a naplánujeme postup práce. Následuje realizace projektu podle odsouhlaseného plánu."
+        },
+        {
+          "question": "Jaké marketingové služby nabízíte?",
+          "answer": "Poskytujeme širokou škálu služeb, včetně webového designu, tvorby webových stránek, marketingových kampaní, reklamy a SEO. Rovněž se specializujeme na grafický design, návrh loga, design vizitek a další."
+        },
+        {
+          "question": "Dlouhodobá či krátkodobá spolupráce?",
+          "answer": "Obojí! Nabízíme jak dlouhodobé smlouvy s výhodnějšími podmínkami, tak i flexibilní měsíční spolupráci. Můžeme pro Vás také provést i jednorázovou zakázku."
+        },
+        {
+          "question": "Jak tvoříte obsah pro weby?",
+          "answer": "Zajišťujeme, že obsah je nejen kreativní a relevantní, ale také optimalizovaný pro vyhledávače (SEO). Provádíme analýzu klíčových slov, abychom zajistili lepší viditelnost, a přizpůsobujeme obsah vašim cílovým skupinám, čímž maximalizujeme jeho dopad a efektivitu."
+        },
+        {
+          "question": "Jak měříte úspěšnost kampaní?",
+          "answer": "Úspěšnost měříme pomocí klíčových ukazatelů výkonnosti (KPI), jako je návštěvnost webových stránek, míra konverze a pozice ve vyhledávačích. Tyto metriky pravidelně reportujeme klientům."
+        },
+        {
+          "question": "Mohu sám spravovat obsah na webu?",
+          "answer": "Ano, naše webové stránky jsou navrženy tak, aby byly snadno spravovatelné i pro klienty bez předchozích zkušeností. Po dokončení projektu vám poskytneme školení, jak správně přidávat a upravovat obsah. Jsme vždy k dispozici pro případnou pomoc a podporu, pokud ji budete potřebovat."
+        },
+        { "question": "Podpora a údržba po dokončení?", "answer": "Ano, nabízíme dlouhodobou podporu a údržbu webových stránek i po dokončení projektu, abychom zajistili jejich optimální výkon." },
+        {
+          "question": "Budu průběžně informován?",
+          "answer": "Během projektu poskytujeme pravidelné aktualizace, buď prostřednictvím emailu, telefonických hovorů nebo osobních schůzek, podle preferencí klienta."
+        },
+        {
+          "question": "Mohu si vybírat jednotlivé služby?",
+          "answer": "Ano, můžete si vybrat pouze jednotlivé služby nebo využít celý balíček podle vašich potřeb. Rádi vám přizpůsobíme nabídku tak, aby odpovídala vašim konkrétním požadavkům."
+        },
+        {
+          "question": "Jaký je rozdíl mezi PPC reklamou a SEO?",
+          "answer": "PPC (platba za kliknutí) přináší okamžité výsledky prostřednictvím placené reklamy ve vyhledávačích, a SEO (optimalizace pro vyhledávače), která je dlouhodobou strategií zaměřenou na zlepšení organického vyhledávání. Pro větší efektivitu doporučujeme kombinovat PPC s SEO. PPC přináší rychlé výsledky, zatímco SEO zajišťuje dlouhodobý růst."
+        }
+      ]
+    },
+    "testimonials": {
+      "section_name": "Testimonials Section (Reusable)",
+      "subheading": "recenze",
+      "heading": "Zkušenosti našich klientů"
+    },
+    "cta": {
+      "section_name": "Call to Action Section (Reusable)",
+      "heading": "Nechte nás posunout vaše podnikání na novou úroveň",
+      "paragraph": "Jste připraveni oživit svůj online prostor a zvýšit svou viditelnost? Nečekejte a využijte naši bezplatnou konzultaci ještě dnes. Vyplňte formulář a my se vám ozveme s řešením přizpůsobeným vašim potřebám.",
+      "button": { "text": "Bezplatná konzultace", "url": "https://businessranker.cz/kontakt/" },
+      "background_image_url": "https://businessranker.cz/wp-content/uploads/footer-img-scaled-1-1920x1280.webp"
+    },
+    "footer": {
+      "section_name": "Footer (Reusable)",
+      "description": "V Business Ranker víme, že moderní webové stránky a marketing nejsou jen o pěkném vzhledu – jsou především o výsledcích, které posouvají váš business vpřed.",
+      "columns": [
+        {
+          "title": "Kontakt",
+          "content": [
+            { "type": "text", "value": "Alexej Litvinec\nIČO: 08487090" },
+            { "type": "link", "text": "+420 775 624 491", "url": "tel:+420775624491" },
+            { "type": "link", "text": "+420 773 569 823", "url": "tel:+420773569823" }
+          ]
+        },
+        { "title": "Služby" },
+        { "title": "Informace" }
+      ],
+      "bottom_section": {
+        "legal_text": "Služby pod značkou Business Ranker poskytuje Alexej Litvinec, který vystupuje jako OSVČ s IČ: 08487090. Všechny právní vztahy a fakturace jsou vedeny na jeho jméno.",
+        "copyright": "© 2025 Business Ranker. All Rights Reserved."
+      }
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "page_metadata": {
+    "page_name": "Design",
+    "title": "Profesionální webový a grafický design - Business Ranker",
+    "description": "Vytváříme jedinečné webové a grafické designy, které zaujmou a posunou váš business vpřed. Kontaktujte nás pro více informací.",
+    "url": "https://businessranker.cz/nase-sluzby/graficky-design/",
+    "featured_image": {
+      "src": "https://businessranker.cz/wp-content/uploads/graphic-design-ico.svg",
+      "alt": "ikona štětce s dlouhou, úzkou rukojetí"
+    }
+  },
+  "sections": {
+    "header": {
+      "section_name": "Header (Reusable)",
+      "logo": {
+        "home_url": "https://businessranker.cz/"
+      },
+      "navigation": [
+        { "text": "Úvod", "url": "https://businessranker.cz/" },
+        { "text": "O nás", "url": "https://businessranker.cz/o-nas/" },
+        {
+          "text": "Služby",
+          "url": "https://businessranker.cz/sluzby/",
+          "submenu_items": [
+            { "title": "Digitální strategie", "url": "https://businessranker.cz/nase-sluzby/digitalni-strategie/" },
+            { "title": "Design", "url": "https://businessranker.cz/nase-sluzby/graficky-design/", "is_current": true },
+            { "title": "Tvorba webu", "url": "https://businessranker.cz/nase-sluzby/tvorba-webovych-stranek/" }
+          ]
+        },
+        { "text": "Ceník", "url": "https://businessranker.cz/cenik/" },
+        { "text": "Blog", "url": "https://businessranker.cz/blog/" },
+        { "text": "Kontakt", "url": "https://businessranker.cz/kontakt/" }
+      ],
+      "cta_button": { "text": "konzultace", "url": "https://businessranker.cz/kontakt/" }
+    },
+    "hero": {
+      "section_name": "Hero Section",
+      "heading": "Design",
+      "paragraph": "Vezmeme vaše nápady a uděláme z nich design, který zaujme vaše zákazníky. Náš tým vytvoří jedinečný styl, který vaši značku vystihne a zanechá silný dojem."
+    },
+    "specialized_services": {
+      "section_name": "Specialized Services Section",
+      "subheading": "specializované služby",
+      "heading": "Komplexní řešení pro vaše podnikání",
+      "services": [
+        {
+          "title": "Analýza konkurenčních webů",
+          "description": "Prozkoumáme, jak jsou uspořádány weby konkurence, a využijeme to při návrhu vašeho webu."
+        },
+        {
+          "title": "A/B testování designu",
+          "description": "Testujeme různé varianty designu, abychom zjistili, co funguje nejlépe."
+        },
+        {
+          "title": "UI/UX design",
+          "description": "Navrhneme uživatelské rozhraní, které bude intuitivní a snadno použitelné."
+        },
+        {
+          "title": "Prototypování",
+          "description": "Vytvoříme interaktivní prototyp, který vám umožní vidět, jak bude web vypadat a fungovat."
+        },
+        {
+          "title": "Tvorba uceleného webu",
+          "description": "Po schválení prototypu přetvoříme prototyp na finální design, který odráží všechny vaše potřeby a požadavky."
+        },
+        {
+          "title": "Dodatečné grafické služby",
+          "description": "Kompletní balíček grafických služeb, včetně tvorby loga, designu vizitek a dalších materiálů."
+        }
+      ]
+    },
+    "why_us_design": {
+      "section_name": "Why Choose Us Section",
+      "image": {
+        "src": "https://businessranker.cz/wp-content/uploads/services-image-v2.webp",
+        "alt": "Services Image V2"
+      },
+      "subheading": "proč si zvolit nás",
+      "heading": "Design, který zaujme",
+      "paragraph": "S více než 10 lety praxe proměníme vaše nápady v design, který osloví a zapamatuje si ho každý. Vaše značka bude vypadat skvěle a vyčnívat mezi konkurencí.",
+      "button": { "text": "více o nás", "url": "https://businessranker.cz/o-nas/" }
+    },
+    "benefits": {
+      "section_name": "Benefits Section",
+      "subheading": "výhody pro vás",
+      "heading": "Výhody které vám tyto služby přináší",
+      "benefit_cards": [
+        { "title": "Jedinečný vizuální styl", "description": "Vytváříme designy, které přesně vystihují vaši značku." },
+        { "title": "Profesionální prezentace", "description": "Váš brand bude působit profesionálně a důvěryhodně." },
+        { "title": "Kreativní přístup", "description": "Přinášíme inovativní nápady, které zaujmou." },
+        { "title": "Optimalizace pro všechny formáty", "description": "Navrhujeme grafiku, která vypadá skvěle na všech zařízeních a materiálech." },
+        { "title": "Konzistentní branding", "description": "Zajistíme, že váš vizuální styl bude konzistentní napříč všemi kanály." },
+        { "title": "Rychlá realizace", "description": "Pracujeme efektivně, aby vaše projekty byly dokončeny včas." }
+      ]
+    },
+    "faq": {
+      "section_name": "FAQ Section (Reusable)",
+      "subheading": "FAQ",
+      "heading": "Často kladené otázky",
+      "paragraph": "Zde najdete odpovědi na otázky, které často dostáváme od našich klientů. Věříme, že vám pomohou lépe porozumět našim službám. Pokud máte další otázky, neváhejte nás oslovit, jsme zde pro vás.",
+      "button": { "text": "kontakt", "url": "https://businessranker.cz/kontakt/" },
+      "questions": [
+        {
+          "question": "Co je grafický a webový design?",
+          "answer": "Grafický design se zaměřuje na vizuální prvky, jako jsou loga a vizitky, zatímco webový design zahrnuje návrh a strukturu webových stránek."
+        },
+        {
+          "question": "Co je wireframing a proč je důležitý?",
+          "answer": "Wireframing je základní návrh webu bez stylů, který ukazuje, jak bude web strukturován a jaké funkce bude mít. Právě v této fázi je nejlepší provádět změny ve struktuře webu, protože wireframy jsou jednoduché a rychlé na úpravu. Umožňují snadno experimentovat s různými rozvrženími a uspořádáním prvků, aniž by bylo nutné investovat čas a zdroje do detailního designu nebo kódování."
+        },
+        {
+          "question": "Jak probíhá analýza konkurence?",
+          "answer": "Analyzujeme strukturu a design konkurenčních webů, abychom vytvořili originální a efektivní řešení pro váš web. Tento proces zahrnuje identifikaci hlavních konkurentů, sběr dat o jejich webech a podrobnou analýzu jejich struktury, designu a obsahu. Na základě těchto poznatků navrhujeme konkrétní změny a vylepšení, které mohou zvýšit konkurenceschopnost vašeho webu."
+        },
+        {
+          "question": "Jaké jsou výhody responzivního designu?",
+          "answer": "Responzivní design zajistí, že vaše webové stránky budou správně fungovat a vypadat na všech zařízeních. Navíc zlepšuje uživatelskou zkušenost a může pozitivně ovlivnit SEO, což vede k lepší viditelnosti ve vyhledávačích."
+        },
+        {
+          "question": "Jak se testuje funkčnost návrhu?",
+          "answer": "Testujeme návrh na různých zařízeních a prohlížečích, abychom se ujistili, že je vše správně zobrazeno a funkční. Dále provádíme uživatelské testování, abychom získali zpětnou vazbu a mohli návrh optimalizovat."
+        }
+      ]
+    },
+    "testimonials": {
+      "section_name": "Testimonials Section (Reusable)",
+      "subheading": "recenze",
+      "heading": "Zkušenosti našich klientů"
+    },
+    "footer": {
+      "section_name": "Footer (Reusable)",
+      "description": "V Business Ranker víme, že moderní webové stránky a marketing nejsou jen o pěkném vzhledu – jsou především o výsledcích, které posouvají váš business vpřed."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "page_metadata": {
+    "page_name": "Kontakt",
+    "title": "Kontaktujte nás - Business Ranker",
+    "description": "Potřebujete web nebo marketing? Kontaktujte Business Ranker na +420 775 624 491 nebo info@businessranker.cz. Jsme tu pro vás!",
+    "url": "https://businessranker.cz/kontakt/"
+  },
+  "sections": {
+    "header": {
+      "section_name": "Header (Reusable)",
+      "logo": {
+        "home_url": "https://businessranker.cz/"
+      },
+      "navigation": [
+        { "text": "Úvod", "url": "https://businessranker.cz/" },
+        { "text": "O nás", "url": "https://businessranker.cz/o-nas/" },
+        { "text": "Služby", "url": "https://businessranker.cz/sluzby/" },
+        { "text": "Ceník", "url": "https://businessranker.cz/cenik/" },
+        { "text": "Blog", "url": "https://businessranker.cz/blog/" },
+        { "text": "Kontakt", "url": "https://businessranker.cz/kontakt/", "is_current": true }
+      ],
+      "cta_button": { "text": "konzultace", "url": "https://businessranker.cz/kontakt/" }
+    },
+    "hero": {
+      "section_name": "Hero Section",
+      "heading": "Kontakt",
+      "paragraph": "Potřebujete web, který prodává, nebo marketing, který přitahuje zákazníky? Kontaktujte nás!"
+    },
+    "contact_info": {
+      "section_name": "Contact Info Section",
+      "tagline": "buďme ve spojení",
+      "heading": "Naše kontakty",
+      "description": "Jsme vám k dispozici, kdykoliv nás budete potřebovat – stačí se ozvat!",
+      "contacts": [
+        {
+          "type": "Pracovní doba",
+          "lines": ["Po – Pá: 9:00 – 18:00", "So – Ne: dle domluvy"]
+        },
+        {
+          "type": "Adresa",
+          "lines": [
+            { "text": "Domažlická 1053/15,", "url": "https://maps.app.goo.gl/d9qHsSHDQT1UPHof8" },
+            { "text": "Praha 3", "url": "https://maps.app.goo.gl/d9qHsSHDQT1UPHof8" }
+          ]
+        },
+        {
+          "type": "Telefon",
+          "lines": [
+            { "text": "+420 775 624 491", "url": "tel:+420775624491" },
+            { "text": "+420 773 569 823", "url": "tel:+420773569823" }
+          ]
+        },
+        {
+          "type": "Email",
+          "lines": [{ "text": "info@businessranker.cz", "url": "mailto:info@businessranker.cz" }]
+        }
+      ]
+    },
+    "contact_form": {
+      "section_name": "Contact Form Section",
+      "left_column": {
+        "heading": "Spojte se s námi",
+        "description": "Máte otázky nebo hledáte řešení pro svůj projekt? Vyplňte své kontaktní údaje a krátce nám napište, co vás zajímá. Ozveme se vám s nezávaznou nabídkou.",
+        "form": {
+          "fields": [
+            { "name": "contact_name", "label": "Jméno", "type": "text", "required": true },
+            { "name": "contact_email", "label": "Email", "type": "email", "required": false },
+            { "name": "contact_text", "label": "Popište nám svůj projekt", "type": "textarea", "required": false },
+            { "name": "konzultace_kontakt", "label": "online shůzka", "type": "checkbox" },
+            { "name": "konzultace_date", "label": "Datum a čas schůzky", "type": "datetime", "note": "Pracovní doba: 9:00 – 18:00" }
+          ],
+          "submit_button_text": "odeslat"
+        }
+      },
+      "right_column": {
+        "image": {
+          "src": "https://businessranker.cz/wp-content/uploads/contact-img-v2.webp",
+          "alt": "Contact Img V2"
+        }
+      }
+    },
+    "testimonials": {
+      "section_name": "Testimonials Section (Reusable)",
+      "subheading": "recenze",
+      "heading": "Zkušenosti našich klientů"
+    },
+    "footer": {
+      "section_name": "Footer (Reusable)",
+      "description": "V Business Ranker víme, že moderní webové stránky a marketing nejsou jen o pěkném vzhledu – jsou především o výsledcích, které posouvají váš business vpřed."
+    }
+  }
+}

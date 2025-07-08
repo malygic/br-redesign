@@ -1,0 +1,109 @@
+{
+  "page_metadata": {
+    "page_name": "SEO a copywriting",
+    "title": "SEO a copywriting pro lepší viditelnost | Business Ranker",
+    "description": "Zlepšete viditelnost svého webu s našimi SEO a copywriting službami. Přitáhněte více zákazníků a zvyšte své prodeje s Business Ranker.",
+    "url": "https://businessranker.cz/nase-sluzby/seo-a-copywriting/",
+    "featured_image": {
+      "src": "https://businessranker.cz/wp-content/uploads/copywriting-ico.svg",
+      "alt": "ikonka papíru s napsaným textem"
+    }
+  },
+  "sections": {
+    "header": {
+      "section_name": "Header (Reusable)",
+      "logo": {
+        "home_url": "https://businessranker.cz/"
+      },
+      "navigation": [
+        { "text": "Úvod", "url": "https://businessranker.cz/" },
+        { "text": "O nás", "url": "https://businessranker.cz/o-nas/" },
+        {
+          "text": "Služby",
+          "url": "https://businessranker.cz/sluzby/",
+          "submenu_items": [
+            { "title": "Digitální strategie", "url": "https://businessranker.cz/nase-sluzby/digitalni-strategie/" },
+            { "title": "Design", "url": "https://businessranker.cz/nase-sluzby/graficky-design/" },
+            { "title": "Tvorba webu", "url": "https://businessranker.cz/nase-sluzby/tvorba-webovych-stranek/" },
+            { "title": "SEO a copywriting", "url": "https://businessranker.cz/nase-sluzby/seo-a-copywriting/", "is_current": true }
+          ]
+        },
+        { "text": "Ceník", "url": "https://businessranker.cz/cenik/" },
+        { "text": "Blog", "url": "https://businessranker.cz/blog/" },
+        { "text": "Kontakt", "url": "https://businessranker.cz/kontakt/" }
+      ],
+      "cta_button": { "text": "konzultace", "url": "https://businessranker.cz/kontakt/" }
+    },
+    "hero": {
+      "section_name": "Hero Section",
+      "heading": "SEO a copywriting",
+      "paragraph": "Pomůžeme vám lépe se umístit ve vyhledávačích a oslovit více zákazníků. Vytvoříme obsah, který nejen zaujme, ale také přitáhne lidi na váš web."
+    },
+    "specialized_services": {
+      "section_name": "Specialized Services Section",
+      "subheading": "specializované služby",
+      "heading": "Komplexní řešení pro vaše podnikání",
+      "services": [
+        { "title": "Analýza klíčových slov", "description": "Najdeme správná slova, která přitáhnou návštěvníky na váš web." },
+        { "title": "Analýza contentu u konkurence", "description": "Prozkoumáme obsah konkurence, abychom identifikovali klíčové oblasti pro vylepšení a získali konkurenční výhodu." },
+        { "title": "Tvorba optimalizovaného obsahu", "description": "Napíšeme texty, které nejen dobře vypadají, ale jsou i optimalizované pro vyhledávače." },
+        { "title": "Lokální SEO", "description": "Zviditelníme vás ve vyhledávačích pro místní zákazníky." },
+        { "title": "Tvorba copywritingového plánu", "description": "Vytvoříme plán obsahu, který bude pravidelně zaujímat a přitahovat návštěvníky." },
+        { "title": "Průběžná SEO údržba", "description": "Postaráme se o pravidelné aktualizace a udržování vašeho webu na špičce." }
+      ]
+    },
+    "why_us_seo": {
+      "section_name": "Why Choose Us Section",
+      "image": { "src": "https://businessranker.cz/wp-content/uploads/services-image-v2.webp", "alt": "Services Image V2" },
+      "subheading": "proč si zvolit nás",
+      "heading": "Texty, co přitáhnou zákazníky",
+      "paragraph": "Víme, jak dostat váš web na přední místa ve vyhledávačích. Naše texty jsou cílené a dobře napsané, takže nejen zaujmou, ale taky pomůžou přitáhnout nové zákazníky.",
+      "button": { "text": "více o nás", "url": "https://businessranker.cz/o-nas/" }
+    },
+    "benefits": {
+      "section_name": "Benefits Section",
+      "subheading": "výhody pro vás",
+      "heading": "Výhody které vám tyto služby přináší",
+      "benefit_cards": [
+        { "title": "Zlepšení viditelnosti", "description": "Pomůžeme vašemu webu dosáhnout vyšších pozic ve vyhledávačích." },
+        { "title": "Efektivní klíčová slova", "description": "Používáme klíčová slova, která přivedou relevantní návštěvníky." },
+        { "title": "Copywriting s jasnou zprávou", "description": "Vytváříme texty, které přesně komunikují vaši nabídku." },
+        { "title": "SEO-friendly struktura", "description": "Naše texty a struktura webu jsou přizpůsobeny pro snadnou indexaci vyhledávači." },
+        { "title": "Rychlá implementace změn", "description": "Reagujeme rychle na změny algoritmů vyhledávačů a optimalizujeme váš obsah." },
+        { "title": "Zaměření na dlouhodobé výsledky", "description": "Naše strategie jsou navrženy tak, aby přinášely udržitelné výsledky." }
+      ]
+    },
+    "faq": {
+      "section_name": "FAQ Section (Reusable)",
+      "subheading": "FAQ",
+      "heading": "Často kladené otázky",
+      "paragraph": "Zde najdete odpovědi na otázky, které často dostáváme od našich klientů. Věříme, že vám pomohou lépe porozumět našim službám. Pokud máte další otázky, neváhejte nás oslovit, jsme zde pro vás.",
+      "button": { "text": "kontakt", "url": "https://businessranker.cz/kontakt/" },
+      "questions": [
+        {
+          "question": "Co je SEO a jak pomáhá vašemu webu?",
+          "answer": "SEO zvyšuje viditelnost vašeho webu ve vyhledávačích, což vede k větší návštěvnosti a lepším výsledkům. Kromě toho zlepšuje uživatelskou zkušenost a důvěryhodnost vašeho webu. Díky SEO můžete také dosáhnout vyššího konverzního poměru a lepší návratnosti investic."
+        },
+        {
+          "question": "Jak probíhá SEO analýza?",
+          "answer": "Zkoumáme strategie konkurence, abychom vám pomohli dosáhnout lepších pozic ve vyhledávačích. Analyzujeme klíčová slova, obsah a zpětné odkazy konkurence, abychom identifikovali příležitosti pro zlepšení. Tímto způsobem můžeme vytvořit efektivní SEO strategii, která vám přinese dlouhodobé výsledky."
+        },
+        { "question": "Jaká je role copywritingu v SEO?", "answer": "Copywriter vytváří texty, které jsou optimalizované pro vyhledávače, ale zároveň zaujmou a informují návštěvníky." },
+        { "question": "Jak měříte úspěšnost SEO optimalizace?", "answer": "Úspěšnost měříme pomocí klíčových metrik, jako je návštěvnost webu, konverze a pozice ve vyhledávačích." },
+        {
+          "question": "Kdy lze očekávat výsledky SEO?",
+          "answer": "SEO (optimalizace pro vyhledávače) je dlouhodobý proces, obvykle trvá několik měsíců, než se projeví první významné výsledky. V dlouhodobé perspektivě však SEO zvyšuje organickou návštěvnost, zlepšuje důvěryhodnost webu a přináší trvalé výhody."
+        }
+      ]
+    },
+    "testimonials": {
+      "section_name": "Testimonials Section (Reusable)",
+      "subheading": "recenze",
+      "heading": "Zkušenosti našich klientů"
+    },
+    "footer": {
+      "section_name": "Footer (Reusable)",
+      "description": "V Business Ranker víme, že moderní webové stránky a marketing nejsou jen o pěkném vzhledu – jsou především o výsledcích, které posouvají váš business vpřed."
+    }
+  }
+}

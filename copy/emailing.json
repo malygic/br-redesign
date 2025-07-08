@@ -1,0 +1,111 @@
+{
+  "page_metadata": {
+    "page_name": "Emailing",
+    "title": "Profesionální emailové šablony | Business Ranker",
+    "description": "Navrhujeme a kódujeme atraktivní, responsivní emailové šablony. Zvyšte loajalitu zákazníků s našimi profesionálními emailing službami.",
+    "url": "https://businessranker.cz/nase-sluzby/emailing/",
+    "featured_image": {
+      "src": "https://businessranker.cz/wp-content/uploads/emailing-ico.svg",
+      "alt": "ikona poštovní obálky"
+    }
+  },
+  "sections": {
+    "header": {
+      "section_name": "Header (Reusable)",
+      "logo": {
+        "home_url": "https://businessranker.cz/"
+      },
+      "navigation": [
+        { "text": "Úvod", "url": "https://businessranker.cz/" },
+        { "text": "O nás", "url": "https://businessranker.cz/o-nas/" },
+        {
+          "text": "Služby",
+          "url": "https://businessranker.cz/sluzby/",
+          "submenu_items": [
+            { "title": "Digitální strategie", "url": "https://businessranker.cz/nase-sluzby/digitalni-strategie/" },
+            { "title": "Design", "url": "https://businessranker.cz/nase-sluzby/graficky-design/" },
+            { "title": "Tvorba webu", "url": "https://businessranker.cz/nase-sluzby/tvorba-webovych-stranek/" },
+            { "title": "SEO a copywriting", "url": "https://businessranker.cz/nase-sluzby/seo-a-copywriting/" },
+            { "title": "Online marketing", "url": "https://businessranker.cz/nase-sluzby/online-marketing/" },
+            { "title": "Emailing", "url": "https://businessranker.cz/nase-sluzby/emailing/", "is_current": true }
+          ]
+        },
+        { "text": "Ceník", "url": "https://businessranker.cz/cenik/" },
+        { "text": "Blog", "url": "https://businessranker.cz/blog/" },
+        { "text": "Kontakt", "url": "https://businessranker.cz/kontakt/" }
+      ],
+      "cta_button": { "text": "konzultace", "url": "https://businessranker.cz/kontakt/" }
+    },
+    "hero": {
+      "section_name": "Hero Section",
+      "heading": "Emailing",
+      "paragraph": "Vytvoříme emailové layouty, které budou zákazníky opravdu zajímat. Pomůžeme vám udržet s nimi kontakt a budovat jejich věrnost vaší značce."
+    },
+    "specialized_services": {
+      "section_name": "Specialized Services Section",
+      "subheading": "specializované služby",
+      "heading": "Komplexní řešení pro vaše podnikání",
+      "services": [
+        { "title": "Design atraktivních šablon", "description": "Navrhujeme vizuálně poutavé emailové šablony, které zaujmou na první pohled." },
+        { "title": "Kódování responsivních emailů", "description": "Zajistíme, aby vaše emaily byly plně responsivní a správně se zobrazovaly na všech zařízeních." },
+        { "title": "A/B testování emailů", "description": "Testujeme různé verze předmětů, obsahu a designu, abychom zjistili, co funguje nejlépe." },
+        { "title": "Optimalizace pro různé emailové klienty", "description": "Testujeme a upravujeme emaily tak, aby fungovaly bezchybně ve všech hlavních emailových klientech." },
+        { "title": "Animace a interaktivní prvky", "description": "Přidáváme animace a interaktivní prvky, které zvýší zapojení příjemců." },
+        { "title": "Přizpůsobení emailů značce", "description": "Zajišťujeme, že každý email bude v souladu s vaší vizuální identitou a posílí vaši značku." }
+      ]
+    },
+    "why_us_emailing": {
+      "section_name": "Why Choose Us Section",
+      "image": { "src": "https://businessranker.cz/wp-content/uploads/services-image-v2.webp", "alt": "Services Image V2" },
+      "subheading": "proč si zvolit nás",
+      "heading": "Emaily, které lidi čtou",
+      "paragraph": "V emailingu máme dlouholeté zkušenosti. Navrhneme a nakódujeme poutavé emailové šablony, které zaujmou a podpoří vaši komunikaci se zákazníky, čímž přispějeme k posílení jejich loajality.",
+      "button": { "text": "více o nás", "url": "https://businessranker.cz/o-nas/" }
+    },
+    "benefits": {
+      "section_name": "Benefits Section",
+      "subheading": "výhody pro vás",
+      "heading": "Výhody které vám tyto služby přináší",
+      "benefit_cards": [
+        { "title": "Optimalizace pro doručitelnost", "description": "Kódujeme emaily tak, aby se doručovaly do hlavní schránky, ne do spamu." },
+        { "title": "Vizuální konzistence", "description": "Zajistíme, že váš email bude vypadat skvěle na všech zařízeních." },
+        { "title": "Personalizovaný design", "description": "Každý email je navržen tak, aby odpovídal vaší značce a cílům." },
+        { "title": "Rychlé načítání", "description": "Naše emaily jsou optimalizované pro rychlé načítání i při pomalejším připojení." },
+        { "title": "Testování napříč platformami", "description": "Zaručujeme, že váš email bude správně zobrazen na všech klientech a zařízeních." },
+        { "title": "Připravenost na budoucnost", "description": "Vytváříme emaily kompatibilní s nejnovějšími technologiemi a standardy." }
+      ]
+    },
+    "faq": {
+      "section_name": "FAQ Section (Reusable)",
+      "subheading": "FAQ",
+      "heading": "Často kladené otázky",
+      "paragraph": "Zde najdete odpovědi na otázky, které často dostáváme od našich klientů. Věříme, že vám pomohou lépe porozumět našim službám. Pokud máte další otázky, neváhejte nás oslovit, jsme zde pro vás.",
+      "button": { "text": "kontakt", "url": "https://businessranker.cz/kontakt/" },
+      "questions": [
+        { "question": "Jaký je význam HTML v emailech?", "answer": "HTML umožňuje vytvářet vizuálně atraktivní a funkční emaily, které zaujmou a přivedou uživatele k akci." },
+        {
+          "question": "Optimalizace pro email klienty?",
+          "answer": "Zajišťujeme, že vaše emaily vypadají skvěle a fungují správně na všech platformách a emailových klientech. Naše vytvořené emaily jsou testovány na specializovaném software, který zahrnuje desítky mobilních zařízení, aby byla zajištěna jejich optimální funkčnost a vzhled."
+        },
+        { "question": "Podporují vaše emaily dark mode?", "answer": "Dark mode umožňuje zobrazení emailů na tmavém pozadí a my zajišťujeme, že se vaše emaily správně zobrazí i v tomto režimu." },
+        {
+          "question": "Optimalizace pro různé prohlížeče?",
+          "answer": "Ano. Různé emailové klienty a prohlížeče zobrazují HTML emaily odlišně. Optimalizace zajišťuje, že se email správně zobrazí všude."
+        },
+        {
+          "question": "Nebude email označen jako spam?",
+          "answer": "Používáme nejlepší praktiky pro kódování a strukturu emailu a vyhýbáme se spamovým slovům, aby se minimalizovalo riziko označení jako spam."
+        }
+      ]
+    },
+    "testimonials": {
+      "section_name": "Testimonials Section (Reusable)",
+      "subheading": "recenze",
+      "heading": "Zkušenosti našich klientů"
+    },
+    "footer": {
+      "section_name": "Footer (Reusable)",
+      "description": "V Business Ranker víme, že moderní webové stránky a marketing nejsou jen o pěkném vzhledu – jsou především o výsledcích, které posouvají váš business vpřed."
+    }
+  }
+}

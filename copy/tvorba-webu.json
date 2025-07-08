@@ -1,0 +1,117 @@
+{
+  "page_metadata": {
+    "page_name": "Tvorba webu",
+    "title": "Profesionální tvorba webů - Business Ranker",
+    "description": "Vytváříme moderní a funkční webové stránky s rychlým načítáním a optimalizací pro mobily. Zlepšete svou online přítomnost s Business Ranker.",
+    "url": "https://businessranker.cz/nase-sluzby/tvorba-webovych-stranek/",
+    "featured_image": {
+      "src": "https://businessranker.cz/wp-content/uploads/development-ico.svg",
+      "alt": "uzavžené kódovací závorky HTML elementu"
+    }
+  },
+  "sections": {
+    "header": {
+      "section_name": "Header (Reusable)",
+      "logo": {
+        "home_url": "https://businessranker.cz/"
+      },
+      "navigation": [
+        { "text": "Úvod", "url": "https://businessranker.cz/" },
+        { "text": "O nás", "url": "https://businessranker.cz/o-nas/" },
+        {
+          "text": "Služby",
+          "url": "https://businessranker.cz/sluzby/",
+          "submenu_items": [
+            { "title": "Digitální strategie", "url": "https://businessranker.cz/nase-sluzby/digitalni-strategie/" },
+            { "title": "Design", "url": "https://businessranker.cz/nase-sluzby/graficky-design/" },
+            { "title": "Tvorba webu", "url": "https://businessranker.cz/nase-sluzby/tvorba-webovych-stranek/", "is_current": true }
+          ]
+        },
+        { "text": "Ceník", "url": "https://businessranker.cz/cenik/" },
+        { "text": "Blog", "url": "https://businessranker.cz/blog/" },
+        { "text": "Kontakt", "url": "https://businessranker.cz/kontakt/" }
+      ],
+      "cta_button": { "text": "konzultace", "url": "https://businessranker.cz/kontakt/" }
+    },
+    "hero": {
+      "section_name": "Hero Section",
+      "heading": "Tvorba webu",
+      "paragraph": "Vytvoříme webové stránky, které nejen dobře vypadají, ale také skvěle fungují. Postaráme se o to, aby váš web byl snadno použitelný a plně vyhovoval vašim potřebám."
+    },
+    "specialized_services": {
+      "section_name": "Specialized Services Section",
+      "subheading": "specializované služby",
+      "heading": "Komplexní řešení pro vaše podnikání",
+      "services": [
+        { "title": "Konzultace o vašich potřebách", "description": "Probereme, co od webu potřebujete, a jak vám může pomoct." },
+        { "title": "Analýza webů konkurence", "description": "Zjistíme, co funguje jinde, a přizpůsobíme to pro váš web." },
+        { "title": "Návrh struktury webu", "description": "Navrhneme, jak by měl váš web být uspořádán, aby byl přehledný a funkční." },
+        { "title": "Tvorba interaktivního prototypu", "description": "Vytvoříme interaktivní náhled vašeho webu, abyste viděli, jak bude strukturován a jakou funkcionalitu bude mít." },
+        { "title": "Webový vývoj", "description": "Převedeme návrh do skutečného, funkčního webu s bohatou funkcionalitou." },
+        { "title": "Údržba a podpora", "description": "I po spuštění webu se postaráme o jeho hladký chod a aktuálnost." }
+      ]
+    },
+    "why_us_web_dev": {
+      "section_name": "Why Choose Us Section",
+      "image": { "src": "https://businessranker.cz/wp-content/uploads/services-image-v2.webp", "alt": "Services Image V2" },
+      "subheading": "proč si zvolit nás",
+      "heading": "Weby, na které se můžete spolehnout",
+      "paragraph": "Webové stránky vytváříme už přes 10 let. Jsou rychlé, moderní a skvěle optimalizované. Díky nám budete mít web, který nejen vypadá dobře, ale taky opravdu funguje.",
+      "button": { "text": "více o nás", "url": "https://businessranker.cz/o-nas/" }
+    },
+    "benefits": {
+      "section_name": "Benefits Section",
+      "subheading": "výhody pro vás",
+      "heading": "Výhody které vám tyto služby přináší",
+      "benefit_cards": [
+        { "title": "Rychlé načítání webu", "description": "Naše weby se načítají rychle, což zlepšuje uživatelský zážitek." },
+        { "title": "Optimalizace pro mobily", "description": "Weby navrhujeme tak, aby fungovaly bezchybně na mobilních zařízeních." },
+        { "title": "Použití nejmodernějších technologií", "description": "Využíváme aktuální technologie, které zajišťují dlouhodobou funkčnost." },
+        { "title": "Intuitivní uživatelské rozhraní", "description": "Vytváříme weby, které se snadno používají a návštěvníci se na nich neztratí." },
+        { "title": "Bezpečnost na prvním místě", "description": "Zajišťujeme vysokou úroveň zabezpečení, aby vaše data byla v bezpečí." },
+        { "title": "Podpora více jazyků", "description": "Tvoříme weby, které snadno podporují různé jazyky." }
+      ]
+    },
+    "faq": {
+      "section_name": "FAQ Section (Reusable)",
+      "subheading": "FAQ",
+      "heading": "Často kladené otázky",
+      "paragraph": "Zde najdete odpovědi na otázky, které často dostáváme od našich klientů. Věříme, že vám pomohou lépe porozumět našim službám. Pokud máte další otázky, neváhejte nás oslovit, jsme zde pro vás.",
+      "button": { "text": "kontakt", "url": "https://businessranker.cz/kontakt/" },
+      "questions": [
+        {
+          "question": "Jak probíhá analýza webů konkurence?",
+          "answer": "Při analýze zkoumáme strukturu, design a funkcionalitu konkurenčních webů, abychom vytvořili lepší a efektivnější řešení pro váš web."
+        },
+        {
+          "question": "Proč je důležitý interaktivní prototyp?",
+          "answer": "Interaktivní prototyp umožňuje simulovat funkce a strukturu webu před jeho konečnou tvorbou, což usnadňuje úpravy a zlepšení."
+        },
+        { "question": "Co zahrnuje tvorba webu?", "answer": "Tvorba webu zahrnuje vše od návrhu designu, přes kódování, až po finální testování a nasazení na server." },
+        {
+          "question": "Informujete o průběhu práce?",
+          "answer": "Pravidelně vás budeme informovat o průběhu tvorby webu pristřednictvím týdenních reportů, abyste měli vždy přehled o tom, v jaké fázi se projekt nachází."
+        },
+        { "question": "Jak probíhá předání dokončeného webu?", "answer": "Předání zahrnuje kompletní nasazení webu, jeho otestování a školení vás nebo vašeho týmu na správu webu." },
+        { "question": "Co znamenají udržovací práce?", "answer": "Udržovací práce zahrnují pravidelné aktualizace, zálohování a zajištění bezpečnosti webu, aby vždy fungoval bez problémů." },
+        {
+          "question": "Jak zajišťujeme optimalizaci mobily?",
+          "answer": "Vytváříme responzivní design, který se automaticky přizpůsobuje různým zařízením, aby váš web vypadal skvěle na mobilech i tabletech. Na responzivitu našich webů klademe velký důraz, jelikož statisticky většina zákazníků vidí web právě na mobilních zařízeních. Díky tomu zajišťujeme, že uživatelský zážitek je vždy prvotřídní, bez ohledu na použité zařízení."
+        },
+        {
+          "question": "Jak dlouho trvá tvorba webu?",
+          "answer": "Doba tvorby webových stránek se odvíjí od složitosti projektu a obvykle trvá několik týdnů. Klíčovým faktorem je také dostupnost všech potřebných informací a podkladů od klienta, včetně fotografií, pokud jsou potřeba. Vždy se snažíme projekt dokončit co nejrychleji, abychom vyhověli vašim potřebám."
+        }
+      ]
+    },
+    "testimonials": {
+      "section_name": "Testimonials Section (Reusable)",
+      "subheading": "recenze",
+      "heading": "Zkušenosti našich klientů"
+    },
+    "footer": {
+      "section_name": "Footer (Reusable)",
+      "description": "V Business Ranker víme, že moderní webové stránky a marketing nejsou jen o pěkném vzhledu – jsou především o výsledcích, které posouvají váš business vpřed."
+    }
+  }
+}

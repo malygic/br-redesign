@@ -1,0 +1,114 @@
+{
+  "page_metadata": {
+    "page_name": "Online marketing",
+    "title": "Profesionální online marketing a reklama - Business Ranker",
+    "description": "Zvyšte své prodeje s našimi cílenými online kampaněmi. Specializujeme se na PPC, sociální sítě a obsahový marketing. Kontaktujte nás!",
+    "url": "https://businessranker.cz/nase-sluzby/online-marketing/",
+    "featured_image": {
+      "src": "https://businessranker.cz/wp-content/uploads/marketing-ico.svg",
+      "alt": "dvě bubliny znázorňující konverzaci"
+    }
+  },
+  "sections": {
+    "header": {
+      "section_name": "Header (Reusable)",
+      "logo": {
+        "home_url": "https://businessranker.cz/"
+      },
+      "navigation": [
+        { "text": "Úvod", "url": "https://businessranker.cz/" },
+        { "text": "O nás", "url": "https://businessranker.cz/o-nas/" },
+        {
+          "text": "Služby",
+          "url": "https://businessranker.cz/sluzby/",
+          "submenu_items": [
+            { "title": "Digitální strategie", "url": "https://businessranker.cz/nase-sluzby/digitalni-strategie/" },
+            { "title": "Design", "url": "https://businessranker.cz/nase-sluzby/graficky-design/" },
+            { "title": "Tvorba webu", "url": "https://businessranker.cz/nase-sluzby/tvorba-webovych-stranek/" },
+            { "title": "SEO a copywriting", "url": "https://businessranker.cz/nase-sluzby/seo-a-copywriting/" },
+            { "title": "Online marketing", "url": "https://businessranker.cz/nase-sluzby/online-marketing/", "is_current": true }
+          ]
+        },
+        { "text": "Ceník", "url": "https://businessranker.cz/cenik/" },
+        { "text": "Blog", "url": "https://businessranker.cz/blog/" },
+        { "text": "Kontakt", "url": "https://businessranker.cz/kontakt/" }
+      ],
+      "cta_button": { "text": "konzultace", "url": "https://businessranker.cz/kontakt/" }
+    },
+    "hero": {
+      "section_name": "Hero Section",
+      "heading": "Online marketing",
+      "paragraph": "Zajistíme, aby o vás na internetu vědělo co nejvíce lidí. Vytvoříme a spravujeme reklamy, které přivedou na váš web více zákazníků a zvýší vaše prodeje."
+    },
+    "specialized_services": {
+      "section_name": "Specialized Services Section",
+      "subheading": "specializované služby",
+      "heading": "Komplexní řešení pro vaše podnikání",
+      "services": [
+        { "title": "Analýza reklam konkurence", "description": "Prozkoumáme strategie a kampaně vaší konkurence, abychom našli příležitosti, jak je překonat a dosáhnout lepších výsledků." },
+        { "title": "Strategie online reklamy", "description": "Vytvoříme plán, jak co nejlépe oslovit vaše zákazníky online." },
+        { "title": "Správa PPC kampaní", "description": "Nastavíme a budeme spravovat vaše kampaně na Google Ads a dalších platformách." },
+        { "title": "Reklama na sociálních sítích", "description": "Navrhneme a spustíme reklamy na Facebooku, Instagramu a dalších sítích." },
+        { "title": "Obsahový marketing", "description": "Pomůžeme vám vytvářet obsah, který zaujme a přiláká správné publikum." },
+        { "title": "Analýza výsledků a optimalizace", "description": "Sledujeme, jak si kampaně vedou, a navrhujeme vylepšení. abychom co nejlépe využili váš reklamní rozpočet." }
+      ]
+    },
+    "why_us_marketing": {
+      "section_name": "Why Choose Us Section",
+      "image": { "src": "https://businessranker.cz/wp-content/uploads/services-image-v2.webp", "alt": "Services Image V2" },
+      "subheading": "proč si zvolit nás",
+      "heading": "Reklamy, které přinášejí výsledky",
+      "paragraph": "Máme přes 10 let zkušeností s online marketingem a víme, co funguje. Naše kampaně vám pomohou oslovit správné lidi a přivést na váš web nové zákazníky.",
+      "button": { "text": "více o nás", "url": "https://businessranker.cz/o-nas/" }
+    },
+    "benefits": {
+      "section_name": "Benefits Section",
+      "subheading": "výhody pro vás",
+      "heading": "Výhody které vám tyto služby přináší",
+      "benefit_cards": [
+        { "title": "Cílené kampaně", "description": "Navrhneme kampaně, které přesně osloví vaši cílovou skupinu." },
+        { "title": "Využití nejnovějších trendů", "description": "Sledujeme aktuální trendy a aplikujeme je do vaší strategie." },
+        { "title": "Optimalizace reklamních rozpočtů", "description": "Maximalizujeme návratnost investic do reklamy." },
+        { "title": "Zvyšování konverzí", "description": "Optimalizujeme kampaně pro vyšší počet konverzí a prodejů." },
+        { "title": "Monitorování výkonu", "description": "Průběžně sledujeme výsledky a přizpůsobujeme strategie." },
+        { "title": "Dlouhodobé partnerství", "description": "Společně s vámi budujeme dlouhodobou marketingovou strategii." }
+      ]
+    },
+    "faq": {
+      "section_name": "FAQ Section (Reusable)",
+      "subheading": "FAQ",
+      "heading": "Často kladené otázky",
+      "paragraph": "Zde najdete odpovědi na otázky, které často dostáváme od našich klientů. Věříme, že vám pomohou lépe porozumět našim službám. Pokud máte další otázky, neváhejte nás oslovit, jsme zde pro vás.",
+      "button": { "text": "kontakt", "url": "https://businessranker.cz/kontakt/" },
+      "questions": [
+        {
+          "question": "Co zahrnuje analýza reklam konkurence?",
+          "answer": "Zkoumáme reklamní strategie konkurence, abychom vytvořili efektivní kampaně, které osloví vaše cílové publikum. Konkrétně analyzujeme jejich reklamní kanály, rozpočet a cílení, abychom identifikovali úspěšné taktiky. Dále sledujeme jejich kreativní přístupy a klíčová sdělení, abychom mohli navrhnout inovativní a konkurenceschopné kampaně."
+        },
+        {
+          "question": "Jaké platformy používáte pro reklamy?",
+          "answer": "Využíváme různé platformy, včetně Google Ads, Facebook Ads, Instagram Ads a Sklik, podle toho, kde se nachází vaše cílová skupina."
+        },
+        {
+          "question": "Jak optimalizujete reklamní kampaně?",
+          "answer": "Optimalizujeme reklamy podle výkonnosti a dat, aby byly co nejefektivnější a dosahovaly stanovených cílů. Například, pokud zjistíme, že určitá reklama má vysokou míru prokliku, ale nízkou konverzi, můžeme upravit její obsah nebo cílení, aby lépe oslovila potenciální zákazníky."
+        },
+        { "question": "Jaké jsou výhody sociálních médií?", "answer": "Sociální média umožňují cíleně oslovit specifické skupiny a budovat povědomí o vaší značce." },
+        { "question": "Jak často se kampaně aktualizují?", "answer": "Kampaně průběžně aktualizujeme podle výsledků a změn na trhu, aby byly vždy co nejefektivnější." },
+        {
+          "question": "Jak probíhá personalizace reklam?",
+          "answer": "Personalizujeme reklamy na základě chování a preferencí uživatelů, což zvyšuje relevanci a účinnost kampaní. Kromě toho využíváme pokročilé analytické nástroje k monitorování a optimalizaci výkonu reklam v reálném čase."
+        }
+      ]
+    },
+    "testimonials": {
+      "section_name": "Testimonials Section (Reusable)",
+      "subheading": "recenze",
+      "heading": "Zkušenosti našich klientů"
+    },
+    "footer": {
+      "section_name": "Footer (Reusable)",
+      "description": "V Business Ranker víme, že moderní webové stránky a marketing nejsou jen o pěkném vzhledu – jsou především o výsledcích, které posouvají váš business vpřed."
+    }
+  }
+}
