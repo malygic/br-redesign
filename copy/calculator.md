@@ -1,9 +1,3 @@
-Ano, z HTML kódu a zejména z atributů v něm obsažených je logika kalkulátoru **velmi dobře patrná**. Je postavena na JavaScriptu, který reaguje na změny ve formulářových polích a využívá speciální `data-*` atributy pro výpočty a podmíněné zobrazování.
-
-Zde je soubor popisující logiku kalkulátoru, určený pro vašeho AI developera.
-
----
-
 ### Popis logiky a fungování cenového kalkulátoru
 
 Tento dokument popisuje funkční logiku interaktivního cenového kalkulátoru na stránce `Ceník`. Logika je implementována pomocí JavaScriptu (pravděpodobně z pluginu Bricksforge Pro Forms) a je řízena `data-*` atributy v HTML.
