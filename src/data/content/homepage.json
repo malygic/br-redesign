@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "title": "Business Ranker - Digitální Agentura",
+    "description": "Moderní digitální agentura specializující se na tvorbu webových stránek, SEO, online marketing a grafický design. Pomáháme firmám růst v online světě.",
+    "keywords": ["digitální agentura", "tvorba webů", "SEO", "online marketing", "grafický design"]
+  },
+  "hero": {
+    "heading": "Digitální agentura pro moderní firmy",
+    "subheading": "Vytváříme webové stránky a online marketing strategie, které přinášejí výsledky",
+    "description": "Specializujeme se na tvorbu moderních webových stránek, SEO optimalizaci a komplexní online marketing. Pomáháme firmám růst v digitálním světě.",
+    "primaryButton": {
+      "text": "Získat cenovou nabídku",
+      "url": "/cenik"
+    },
+    "secondaryButton": {
+      "text": "Naše služby",
+      "url": "/sluzby"
+    },
+    "images": {
+      "hero": {
+        "src": "/images/workspace-with-logo-on-tablet.jpg",
+        "alt": "Moderní pracovní prostředí s tabletem zobrazujícím logo"
+      },
+      "mockups": [
+        {
+          "src": "/images/mockup-real-estate-mobile.png",
+          "alt": "Mobilní aplikace pro realitní kancelář"
+        },
+        {
+          "src": "/images/mockup-barbershop-desktop.png",
+          "alt": "Webové stránky pro barbershop"
+        }
+      ]
+    }
+  },
+  "services": [
+    {
+      "id": "digital-strategy",
+      "title": "Digitální strategie",
+      "description": "Komplexní analýza a strategie pro váš online růst",
+      "icon": "target",
+      "button": {
+        "text": "Zjistit více",
+        "url": "/sluzby/digitalni-strategie"
+      }
+    },
+    {
+      "id": "web-design",
+      "title": "Grafický design",
+      "description": "Moderní a funkční design pro vaši značku",
+      "icon": "palette",
+      "button": {
+        "text": "Zjistit více",
+        "url": "/sluzby/graficky-design"
+      }
+    },
+    {
+      "id": "web-development",
+      "title": "Tvorba webů",
+      "description": "Responzivní webové stránky postavené na moderních technologiích",
+      "icon": "code",
+      "button": {
+        "text": "Zjistit více",
+        "url": "/sluzby/tvorba-webu"
+      }
+    },
+    {
+      "id": "seo-copywriting",
+      "title": "SEO & Copywriting",
+      "description": "Optimalizace pro vyhledávače a kvalitní obsah",
+      "icon": "search",
+      "button": {
+        "text": "Zjistit více",
+        "url": "/sluzby/seo-copywriting"
+      }
+    },
+    {
+      "id": "online-marketing",
+      "title": "Online marketing",
+      "description": "PPC kampaně, sociální sítě a email marketing",
+      "icon": "megaphone",
+      "button": {
+        "text": "Zjistit více",
+        "url": "/sluzby/online-marketing"
+      }
+    },
+    {
+      "id": "emailing",
+      "title": "Emailing",
+      "description": "Efektivní email kampaně pro vaše zákazníky",
+      "icon": "mail",
+      "button": {
+        "text": "Zjistit více",
+        "url": "/sluzby/emailing"
+      }
+    }
+  ],
+  "about": {
+    "heading": "O nás",
+    "subheading": "Rodinná agentura s osobním přístupem",
+    "description": "Jsme malý tým odborníků, kteří se specializují na digitální marketing a tvorbu webových stránek. Naším cílem je pomoci firmám růst v online prostředí prostřednictvím moderních technologií a strategií.",
+    "button": {
+      "text": "Více o nás",
+      "url": "/o-nas"
+    },
+    "image": {
+      "src": "/images/team-collaboration-at-desk.jpg",
+      "alt": "Tým Business Ranker při práci"
+    }
+  },
+  "whyChooseUs": [
+    {
+      "type": "imageLeft",
+      "title": "Moderní technologie",
+      "description": "Používáme nejnovější technologie a trendy v oblasti webového vývoje a online marketingu.",
+      "image": {
+        "src": "/images/mac-cropped.webp",
+        "alt": "Moderní technologie"
+      }
+    },
+    {
+      "type": "imageRight",
+      "title": "Mobilní optimalizace",
+      "description": "Všechny naše weby jsou plně responzivní a optimalizované pro mobilní zařízení.",
+      "image": {
+        "src": "/images/iphones-mockub.webp",
+        "alt": "Mobilní optimalizace"
+      }
+    },
+    {
+      "type": "textOnly",
+      "title": "Osobní přístup",
+      "description": "Každý projekt je pro nás jedinečný. Věnujeme se vám individuálně a hledáme nejlepší řešení pro vaše potřeby."
+    },
+    {
+      "type": "cta",
+      "title": "Máte projekt?",
+      "description": "Kontaktujte nás a probereme vaše požadavky.",
+      "button": {
+        "text": "Kontaktovat nás",
+        "url": "/kontakt"
+      }
+    }
+  ],
+  "process": [
+    {
+      "id": "analysis",
+      "number": 1,
+      "title": "Analýza a strategie",
+      "description": "Analyzujeme vaše potřeby a vytvoříme strategii pro dosažení vašich cílů."
+    },
+    {
+      "id": "design",
+      "number": 2,
+      "title": "Design a wireframing",
+      "description": "Navrhujeme uživatelsky přívětivý design a strukturu vašeho webu."
+    },
+    {
+      "id": "development",
+      "number": 3,
+      "title": "Vývoj a implementace",
+      "description": "Vytváříme váš web pomocí moderních technologií a best practices."
+    },
+    {
+      "id": "testing",
+      "number": 4,
+      "title": "Testování a optimalizace",
+      "description": "Testujeme funkčnost a optimalizujeme výkon pro nejlepší uživatelský zážitek."
+    },
+    {
+      "id": "launch",
+      "number": 5,
+      "title": "Spuštění a monitoring",
+      "description": "Spouštíme váš web a monitorujeme jeho výkon a návštěvnost."
+    },
+    {
+      "id": "support",
+      "number": 6,
+      "title": "Podpora a údržba",
+      "description": "Poskytujeme kontinuální podporu a údržbu pro optimální fungování."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "name": "Jan Novák",
+      "company": "TechStart s.r.o.",
+      "quote": "Business Ranker vytvořil pro naši firmu skvělý web, který nám přinesl více zákazníků. Profesionální přístup a rychlá komunikace.",
+      "image": {
+        "src": "/images/testimonials/jan-novak.jpg",
+        "alt": "Jan Novák"
+      },
+      "rating": 5
+    },
+    {
+      "id": "testimonial-2",
+      "name": "Marie Svobodová",
+      "company": "Květinářství Růže",
+      "quote": "Díky SEO optimalizaci od Business Ranker se naše květinářství dostalo na první stránku Google. Objednávky se zdvojnásobily!",
+      "image": {
+        "src": "/images/testimonials/marie-svobodova.jpg",
+        "alt": "Marie Svobodová"
+      },
+      "rating": 5
+    },
+    {
+      "id": "testimonial-3",
+      "name": "Petr Dvořák",
+      "company": "Autoservis Dvořák",
+      "quote": "Moderní web a efektivní PPC kampaně. Konečně máme online prezentaci, na kterou jsme hrdí.",
+      "image": {
+        "src": "/images/testimonials/petr-dvorak.jpg",
+        "alt": "Petr Dvořák"
+      },
+      "rating": 5
+    },
+    {
+      "id": "testimonial-4",
+      "name": "Anna Krásná",
+      "company": "Beauty Studio Anna",
+      "quote": "Skvělá spolupráce na redesignu webu. Nový design přilákal více klientek a rezervace se zvýšily o 40%.",
+      "image": {
+        "src": "/images/testimonials/anna-krasna.jpg",
+        "alt": "Anna Krásná"
+      },
+      "rating": 5
+    },
+    {
+      "id": "testimonial-5",
+      "name": "Tomáš Veselý",
+      "company": "Fitness Centrum Veselý",
+      "quote": "Business Ranker nám pomohl s kompletní online strategií. Web, sociální sítě, email marketing - vše funguje perfektně.",
+      "image": {
+        "src": "/images/testimonials/tomas-vesely.jpg",
+        "alt": "Tomáš Veselý"
+      },
+      "rating": 5
+    },
+    {
+      "id": "testimonial-6",
+      "name": "Lucie Nová",
+      "company": "Restaurace U Lucie",
+      "quote": "Díky novému webu a online rezervačnímu systému máme plno každý večer. Investice se vrátila během měsíce.",
+      "image": {
+        "src": "/images/testimonials/lucie-nova.jpg",
+        "alt": "Lucie Nová"
+      },
+      "rating": 5
+    },
+    {
+      "id": "testimonial-7",
+      "name": "Martin Černý",
+      "company": "Advokátní kancelář Černý",
+      "quote": "Profesionální web pro advokátní kancelář s důrazem na důvěryhodnost a serióznost. Přesně to, co jsme potřebovali.",
+      "image": {
+        "src": "/images/testimonials/martin-cerny.jpg",
+        "alt": "Martin Černý"
+      },
+      "rating": 5
+    },
+    {
+      "id": "testimonial-8",
+      "name": "Kateřina Horáková",
+      "company": "E-shop Móda",
+      "quote": "E-shop s perfektní funkcionalitou a designem. Prodeje vzrostly o 60% během prvních tří měsíců.",
+      "image": {
+        "src": "/images/testimonials/katerina-horakova.jpg",
+        "alt": "Kateřina Horáková"
+      },
+      "rating": 5
+    },
+    {
+      "id": "testimonial-9",
+      "name": "David Procházka",
+      "company": "Stavební firma Procházka",
+      "quote": "Moderní web s galerií realizací a kontaktním formulářem. Získáváme více poptávek než kdy dříve.",
+      "image": {
+        "src": "/images/testimonials/david-prochazka.jpg",
+        "alt": "David Procházka"
+      },
+      "rating": 5
+    }
+  ]
+}

@@ -49,20 +49,4 @@
   }
 }
 
-/* Import pro font Outfit - PŘIDEJTE TOTO do vašeho layout.tsx nebo page.tsx */
-/* V souboru layout.tsx:
-import { Outfit } from 'next/font/google'
-const outfit = Outfit({ subsets: ['latin'], variable: '--font-sans' })
-...
-<body className={cn(outfit.variable, "min-h-screen bg-background font-sans antialiased")}>
-*/
-```**Důležitá poznámka k fontu:** Jak je uvedeno v komentáři v CSS, pro správné fungování fontu "Outfit" budete muset přidat jeho import do hlavního layout souboru `src/app/layout.tsx`.
-
-
----
-
-### Závěr
-
-Hotovo! Tímto jste úspěšně přizpůsobil nejnovější verzi `shadcn/ui` s Tailwind CSS v4 naší vlastní vizuální identitě.
-
-Nyní můžete bez obav **pokračovat Fází 3** z mého původního návodu (`npm install framer-motion...` atd.). Vše ostatní již platí beze změny.
+/* Custom styles for Business Ranker */

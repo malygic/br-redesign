@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "title": "O nás - Business Ranker",
+    "description": "Poznejte tým Business Ranker. Rodinná digitální agentura s osobním přístupem a moderními technologiemi.",
+    "keywords": ["o nás", "tým", "digitální agentura", "Alex", "Anastasia"]
+  },
+  "hero": {
+    "heading": "O nás",
+    "subheading": "Online marketing je s námi hračka!",
+    "description": "Jsme rodinná digitální agentura, která kombinuje hluboké znalosti s praktickými zkušenostmi. Naším cílem je pomoci vašemu podnikání růst v online světě."
+  },
+  "team": {
+    "heading": "Náš tým",
+    "subheading": "Online marketing je s námi hračka!",
+    "members": [
+      {
+        "id": "alex",
+        "name": "Alex",
+        "role": "Web design & Web development",
+        "description": "Specialista na moderní webové technologie a uživatelsky přívětivý design. Vytváří weby, které nejen skvěle vypadají, ale také perfektně fungují.",
+        "image": {
+          "src": "/images/alex-portrait-professional.jpg",
+          "alt": "Alex - Web designer a vývojář"
+        },
+        "social": {
+          "linkedin": "https://linkedin.com/in/alex-businessranker",
+          "email": "alex@businessranker.cz"
+        }
+      },
+      {
+        "id": "anastasia",
+        "name": "Anastasia",
+        "role": "Marketing & SEO copywriting",
+        "description": "Expertka na online marketing a SEO copywriting. Vytváří obsah, který přitahuje zákazníky a zlepšuje pozice ve vyhledávačích.",
+        "image": {
+          "src": "/images/anastasia-portrait-professional.jpg",
+          "alt": "Anastasia - Marketing specialistka"
+        },
+        "social": {
+          "linkedin": "https://linkedin.com/in/anastasia-businessranker",
+          "email": "anastasia@businessranker.cz"
+        }
+      }
+    ]
+  },
+  "technologies": {
+    "heading": "Moderní technologie a pragmatický přístup",
+    "description": "Kombinujeme hluboké znalosti s praktickými zkušenostmi. Používáme nejnovější technologie, ale vždy s ohledem na praktické využití a efektivitu.",
+    "techStack": [
+      {
+        "name": "HTML5",
+        "category": "frontend"
+      },
+      {
+        "name": "CSS3",
+        "category": "frontend"
+      },
+      {
+        "name": "JavaScript",
+        "category": "frontend"
+      },
+      {
+        "name": "PHP",
+        "category": "backend"
+      },
+      {
+        "name": "WordPress",
+        "category": "cms"
+      },
+      {
+        "name": "Figma",
+        "category": "design"
+      },
+      {
+        "name": "Google",
+        "category": "marketing"
+      },
+      {
+        "name": "YouTube",
+        "category": "marketing"
+      },
+      {
+        "name": "Facebook",
+        "category": "marketing"
+      },
+      {
+        "name": "Instagram",
+        "category": "marketing"
+      }
+    ],
+    "image": {
+      "src": "/images/meeting-conference-table.jpg",
+      "alt": "Tým při práci s moderními technologiemi"
+    }
+  },
+  "values": {
+    "heading": "Pomáháme vašemu podnikání růst v online světě",
+    "description": "Věříme v osobní přístup a dlouhodobé partnerství. Každý projekt je pro nás jedinečný a věnujeme mu maximální pozornost.",
+    "valuesList": [
+      {
+        "title": "Osobní přístup",
+        "description": "Každý klient je pro nás jedinečný. Věnujeme se vám individuálně a hledáme nejlepší řešení."
+      },
+      {
+        "title": "Transparentnost",
+        "description": "Jasné ceny, otevřená komunikace a pravidelné reporty o průběhu projektu."
+      },
+      {
+        "title": "Kvalita",
+        "description": "Používáme pouze ověřené technologie a postupy. Kvalita je pro nás prioritou."
+      },
+      {
+        "title": "Dlouhodobé partnerství",
+        "description": "Neskončíme po dokončení projektu. Poskytujeme kontinuální podporu a rozvoj."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/team-discussion-sofa-casual.jpg",
+        "alt": "Neformální diskuse týmu"
+      },
+      {
+        "src": "/images/team-walking-in-hallway.jpg",
+        "alt": "Dynamické partnerství"
+      }
+    ]
+  },
+  "approach": {
+    "heading": "Náš přístup",
+    "description": "Kombinujeme kreativitu s analytickým myšlením. Každý projekt začínáme důkladnou analýzou a pokračujeme systematickou realizací.",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Analýza a porozumění",
+        "description": "Důkladně analyzujeme vaše potřeby, cíle a konkurenční prostředí."
+      },
+      {
+        "number": 2,
+        "title": "Strategie a plánování",
+        "description": "Vytváříme detailní strategii a plán realizace s jasnými milníky."
+      },
+      {
+        "number": 3,
+        "title": "Realizace a testování",
+        "description": "Implementujeme řešení s důrazem na kvalitu a testování funkcionalit."
+      },
+      {
+        "number": 4,
+        "title": "Spuštění a optimalizace",
+        "description": "Spouštíme projekt a kontinuálně optimalizujeme výkon a výsledky."
+      }
+    ]
+  }
+}

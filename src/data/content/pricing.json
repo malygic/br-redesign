@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "title": "Ceník služeb - Business Ranker",
+    "description": "Transparentní ceník našich služeb. Tvorba webů, SEO, online marketing a grafický design za férové ceny.",
+    "keywords": ["ceník", "ceny", "tvorba webů", "SEO", "online marketing"]
+  },
+  "packages": [
+    {
+      "id": "basic",
+      "name": "Basic",
+      "price": 10000,
+      "currency": "CZK",
+      "description": "Ideální pro malé firmy a začínající podnikatele",
+      "popular": false,
+      "features": [
+        "Jednostránkový web",
+        "Analýza konkurence",
+        "Wireframing + webdesign",
+        "SEO copywriting",
+        "Responzivní vývoj",
+        "CMS pro správu obsahu",
+        "Registrace domény a hostingu",
+        "Zabezpečení webu"
+      ],
+      "button": {
+        "text": "Vybrat Basic",
+        "url": "/kontakt?package=basic"
+      }
+    },
+    {
+      "id": "advanced",
+      "name": "Advanced",
+      "price": 13500,
+      "currency": "CZK",
+      "description": "Pro firmy, které chtějí více funkcionalit",
+      "popular": true,
+      "features": [
+        "Vše z balíčku Basic",
+        "2-10 stránkový web",
+        "Vícejazyčná podpora",
+        "Komplexní rezervační formuláře",
+        "Online chat + chatbot",
+        "Základní integrace analytiky",
+        "Základní SEO optimalizace",
+        "Základní animace"
+      ],
+      "button": {
+        "text": "Vybrat Advanced",
+        "url": "/kontakt?package=advanced"
+      }
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "price": 41500,
+      "currency": "CZK",
+      "description": "Kompletní řešení pro náročné projekty",
+      "popular": false,
+      "features": [
+        "Vše z balíčku Advanced",
+        "10+ stránkový web",
+        "Tvorba firemní identity",
+        "E-shop funkcionalita",
+        "Správa sociálních sítí",
+        "Komplexní online marketing",
+        "Pokročilé SEO",
+        "Pokročilé animace"
+      ],
+      "button": {
+        "text": "Vybrat Premium",
+        "url": "/kontakt?package=premium"
+      }
+    }
+  ],
+  "calculator": {
+    "title": "Kalkulátor ceny",
+    "description": "Vypočítejte si orientační cenu vašeho projektu",
+    "webDevelopment": {
+      "title": "Tvorba webu",
+      "basePrice": 10000,
+      "additionalPagePrice": 3500,
+      "multilingualPricePerPage": 1000,
+      "additionalFeatures": [
+        {
+          "id": "advanced-animations",
+          "name": "Pokročilé animace",
+          "price": 2000
+        },
+        {
+          "id": "payment-gateway",
+          "name": "Platební brána",
+          "price": 1000
+        },
+        {
+          "id": "interactive-calculator",
+          "name": "Interaktivní kalkulátor",
+          "price": 1000
+        },
+        {
+          "id": "booking-forms",
+          "name": "Rezervační formuláře",
+          "price": 1000
+        },
+        {
+          "id": "online-chat",
+          "name": "Online chat",
+          "price": 1000
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing služby",
+      "services": [
+        {
+          "id": "google-my-business",
+          "name": "Registrace Google My Business",
+          "price": 1000
+        },
+        {
+          "id": "monthly-seo-copy",
+          "name": "Měsíční SEO copywriting",
+          "price": 5000
+        },
+        {
+          "id": "social-media-management",
+          "name": "Správa sociálních sítí",
+          "price": 5000
+        },
+        {
+          "id": "ppc-campaign-setup",
+          "name": "Nastavení PPC kampaní",
+          "price": 3000
+        }
+      ]
+    }
+  },
+  "faq": [
+    {
+      "id": "faq-1",
+      "question": "Mohu si přizpůsobit balíčky podle svých potřeb?",
+      "answer": "Ano, všechny naše balíčky lze přizpůsobit vašim specifickým požadavkům. Kontaktujte nás a probereme vaše potřeby individuálně.",
+      "category": "pricing"
+    },
+    {
+      "id": "faq-2",
+      "question": "Jak dlouho trvá vytvoření webu?",
+      "answer": "Standardní doba realizace je 2-4 týdny v závislosti na složitosti projektu. U komplexnějších projektů může trvat realizace až 8 týdnů.",
+      "category": "pricing"
+    },
+    {
+      "id": "faq-3",
+      "question": "Je uvedená cena finální?",
+      "answer": "Uvedené ceny jsou orientační. Finální cena se stanoví po konzultaci a analýze vašich konkrétních požadavků.",
+      "category": "pricing"
+    },
+    {
+      "id": "faq-4",
+      "question": "Poskytujete záruku na kvalitu?",
+      "answer": "Ano, poskytujeme 6měsíční záruku na všechny naše služby a 30denní záruku vrácení peněz, pokud nebudete spokojeni.",
+      "category": "pricing"
+    },
+    {
+      "id": "faq-5",
+      "question": "Mohu si objednat pouze některé služby?",
+      "answer": "Samozřejmě! Nabízíme i jednotlivé služby jako SEO optimalizaci, grafický design nebo správu sociálních sítí.",
+      "category": "pricing"
+    }
+  ]
+}
